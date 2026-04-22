@@ -52,16 +52,11 @@ Total energy consumption also peaks at 4 PM, indicating peak hours are not just 
 
 ### 3. Charging Inefficiency
 
-Some sessions show long durations (6–25+ hours) but very low energy delivered.
-
-This indicates charger occupancy without active charging
+Some sessions show long durations (6–25+ hours) but very low energy delivered. This indicates charger occupancy without active charging.
 
 ### 4. Energy Plateau Effect
 
-Many sessions deliver roughly 10–15 kWh, even as duration increases significantly.
-
-That means that even after charging completes early, the Uusers remain connected afterward.  
-
+Many sessions deliver roughly 10–15 kWh, even as duration increases significantly. That means that even after charging completes early, the users remain connected afterward.  
 
 ## Key Problems Identified
 
