@@ -78,3 +78,14 @@ That means :
 - Inefficient charger utilization
 - Idle occupancy after charging completion
 
+## Visualizations
+
+### Charging Sessions by Hour
+![Charging Sessions by Hour](images/charging-sessions-by-hour.png)
+
+### Total Energy Delivered by Hour
+![Total Energy Delivered by Hour](images/total_energy_by_hour.png)
+
+### Charging Duration vs Energy Delivered
+![Charging Duration vs Energy Delivered](images/chargingvsenergy.png)
+
