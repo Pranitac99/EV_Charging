@@ -44,31 +44,23 @@ Source : https://www.kaggle.com/datasets/mexwell/electric-vehicle-charging-datas
 ### 1. Peak Charging Demand
 
 Charging sessions are highly concentrated between 3 PM and 5 PM, with a peak at 4 PM.
-
-Suggests strong alignment with daily routines 
+This suggests strong alignment with daily routines 
 
 ### 2. Peak Energy Demand Aligns with Peak Usage
 
-Total energy consumption also peaks at 4 PM, indicating peak hours are not just busy but excess energy is being sued. 
-
-This creates maximum stress on charging stations.
+Total energy consumption also peaks at 4 PM, indicating peak hours are not just busy but excess energy is being used. This creates maximum stress on charging stations.
 
 ### 3. Charging Inefficiency
 
-Some sessions show:
+Some sessions show long durations (6–25+ hours) but very low energy delivered.
 
-a. Long durations (6–25+ hours)
-b. Very low energy delivered
-
-Indicates charger occupancy without active charging
+This indicates charger occupancy without active charging
 
 ### 4. Energy Plateau Effect
 
 Many sessions deliver roughly 10–15 kWh, even as duration increases significantly.
 
-That means : 
-- Charging completes early  
-- Users remain connected afterward  
+That means that even after charging completes early, the Uusers remain connected afterward.  
 
 
 ## Key Problems Identified
